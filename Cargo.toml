@@ -1,0 +1,6 @@
+[package]
+name = "dispatch"
+version = "0.1.0"
+authors = ["Daniel Werner <daniel.werner@whiteops.com>"]
+
+[dependencies]
